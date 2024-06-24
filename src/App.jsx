@@ -1,12 +1,14 @@
 
 import './App.css'
-import Admin from './components/Admin'
+import AdminPanel from './components/test/AdminPanel'
+// import Admin from './components/Admin'
 
 function App() {
 
   return (
     <>
-      <Admin/>
+      {/* <Admin/> */}
+      <AdminPanel/>
     </>
   )
 }
