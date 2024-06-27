@@ -1,4 +1,4 @@
-// DetailsColumn.jsx
+
 import React from 'react';
 
 const DetailsColumn = ({ sections }) => {

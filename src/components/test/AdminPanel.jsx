@@ -16,8 +16,8 @@ const AdminPanel = () => {
 
   // Sample data for sections
   const sections = [
-    { id: 'section1', title: 'Section 1', content: 'Details about section 1...' },
-    { id: 'section2', title: 'Section 2', content: 'Details about section 2...' },
+    { id: 'Member', title: 'Member', content: 'Details about section 1...' },
+    { id: 'Atithi', title: 'Atithi List', content: 'Details about section 2...' },
     // Add more sections as needed
   ];
 
